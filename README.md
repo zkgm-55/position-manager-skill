@@ -238,6 +238,3 @@ PRs welcome, especially for:
 - More precise IL modeling for concentrated ranges
 - Historical entry-price tracking from transaction history
 - Improved Meteora DLMM bin-to-price approximation
-```
-
-
